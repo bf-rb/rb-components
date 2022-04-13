@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative 'lib/rb_components/version'
+require_relative 'lib/rb_components/core/version'
 
 Gem::Specification.new do |spec|
   spec.name = 'rb-components'
