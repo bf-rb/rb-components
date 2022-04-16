@@ -10,9 +10,9 @@ module RbComponents
       MINOR = 0
       # 0.0.x changes, such as small bug fixes
       PATCH = 0
-    end  
+    end
   end
-  
+
   # Gem version
   # @return [String]
   def self.version
